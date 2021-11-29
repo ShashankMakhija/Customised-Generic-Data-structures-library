@@ -7,6 +7,8 @@ Data structures in this project include.
 - Singly Circular Linked list
 - Doubly Linear Linked List
 - Doubly Circulat Linked List
+- Stack
+- Queue
 - Binary Search Tree
 
 
@@ -17,5 +19,9 @@ Data structures in this project include.
 # Doubly Linear Linked List
 
 # Doubly Circulat Linked List
+
+# Stack
+
+# Queue
 
 # Binary Search Tree
