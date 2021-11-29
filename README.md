@@ -12,16 +12,3 @@ Data structures in this project include.
 - Binary Search Tree
 
 
-# Singly Linear Linked list
-
-# Singly Circular Linked list
-
-# Doubly Linear Linked List
-
-# Doubly Circulat Linked List
-
-# Stack
-
-# Queue
-
-# Binary Search Tree
